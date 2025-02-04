@@ -1,5 +1,5 @@
-[![license](https://img.shields.io/github/license/plus3it/ntp-client-windows-formula.svg)](./LICENSE)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/ntp-client-windows-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/ntp-client-windows-formula)
+[![license](https://img.shields.io/github/license/MetroStar/ntp-client-windows-formula.svg)](./LICENSE)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/ntp-client-windows-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/ntp-client-windows-formula)
 
 # ntp-client-windows-formula
 Salt formula to configure the Windows Time Service to sync with one or more
